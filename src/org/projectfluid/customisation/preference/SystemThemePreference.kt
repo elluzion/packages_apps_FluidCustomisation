@@ -10,7 +10,7 @@ class SystemThemePreference(context: Context, attributeSet: AttributeSet)
 
     // remove these comments later yes yes
     // open the fitting fragment for more settings (called on button press)
-    override fun openMonetOrThemeSettings() {
+    override fun openThemeSettings() {
         //when (monetEnabled) {
         //    true -> Toast.makeText(context, "Open monet settings", Toast.LENGTH_SHORT).show()
         //    false -> Toast.makeText(context, "Open theme settings", Toast.LENGTH_SHORT).show()
